@@ -5,6 +5,8 @@ Design challenge: Creating an AR filter for TikTok
 A simple augmented reality feature where given a $20 on screen, a 3D bust of Harriet Tubman appears with a quote. Pressing the button will transform the dollar into a $20 bill featuring Tubman's face. This design only works with a $20 and no other denomination.
 I chose this design because it reveals the ongoing effort to replace Andrew Jackson with Harriet Tubman on the $20 bill.
 
+![alt text](https://github.com/jkane002/tiktok-design-challenge/blob/master/Screen%20Shot%202019-06-23%20at%203.00.34%20PM.png "screenshot")
+
 # Challenges
 Although it was my first time using augmented reality, it was very easy to understand the Vuforia Engine through Unity. Some challenges with it include setting up a picture that has easily defined trackers so the camera can detect objects.
 This is suppose to be used in a mobile platform but its functionalities are demonstrated nicely through the computer's webcam.
